@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "El6ZqWEisb3OlxwwsnTjhvfnxAH2QdXaT7pPXe+gWdACzod2LSbhLdiCM18j57TwyGdg6Hqif6LghXLipdw+oA==",
+  "success": true,
+  "projectFilePath": "/run/media/anton/DATA/Visual_Studio_Code/C#/MathS/MathS.csproj",
+  "expectedPackageFiles": [
+    "/home/anton/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.1/microsoft.aspnetcore.app.ref.7.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
